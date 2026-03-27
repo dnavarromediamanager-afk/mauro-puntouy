@@ -1,0 +1,9 @@
+negocio:
+  nombre: "PuntoUY Comunicaciones"
+  descripcion: "Agencia de marketing y comunicacion estrategica fundada por Diego Navarro en Uruguay."
+  horario: "Lunes a Viernes de 9:00 a 18:00"
+  web: "puntouy.com.uy"
+  fundador: "Diego Navarro"
+agente:
+  nombre: "Mauro"
+  tono: "vendedor_rioplatense"
